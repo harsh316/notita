@@ -13,7 +13,9 @@ Now, run the tool by typing the following command :
 
 ./notita.sh
 
-Once you ht enter , you will present the small intro of the tool ,just type the domain you want to extract IP addresses of, within few seconds the IP addresses will be stored in their respective txt file 
+Note: Make sure you type URL correctly inorder to get accurate outputs
+
+Once you hit enter , you will present the small intro of the tool ,just type the domain you want to extract IP addresses of, within few seconds the IP addresses will be stored in their respective txt file 
 
 Thank you,
  
